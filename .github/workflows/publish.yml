@@ -1,3 +1,6 @@
+# from:
+# https://notes.billmill.org/programming/observable_framework/github_workflow_for_publishing_an_observable_framework.html
+
 name: Publish
 on:
   workflow_dispatch:
